@@ -105,3 +105,23 @@ console.log('Total for Player Two: ' + player2.score);
 //         Better luck next time!`);
 
 }
+
+/*
+ a.   Programmatically subtract the value of the first element in the array from the value in the last element of the array
+  (do not use numbers to reference the last element, find it programmatically,
+  ages[7] – ages[0] is not allowed).
+  Print the result to the console.
+*/
+// console.log("\nQuestion 1a:\n");
+
+// let ages = [3, 9, 23, 64, 2, 8, 28, 93]; // declares an array called ages and assigns it a list of numbers
+// console.log("The ages array is:", ages); // prints the ages array to the console
+
+// let firstElement = ages[0]; //declares a variable called firstElement and assigns it the value of the first element in the array
+// console.log("The first element in the array is:", firstElement); //prints the first element in the array to the console
+
+// let lastElement = ages[ages.length - 1]; //declares a variable called lastElement and assigns it the value of the last element in the array
+// console.log("The last element in the array is:", lastElement); //prints the last element in the array to the console
+
+// let difference = lastElement - firstElement; //declares a variable called difference and subtracts lastElement minus the firstElement
+// console.log("last element in the ages array:", difference); //printing last element minus the first element
